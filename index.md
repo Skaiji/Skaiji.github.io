@@ -1,36 +1,28 @@
-## Welcome to GitHub Pages
+## SKAIJIDEV UNITY DEVELOPER
 
-You can use the [editor on GitHub](https://github.com/Skaiji/Skaiji.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Unity developer with more than 3 years of experience, on my account there are already more than 7 cool, launched projects. I develop both games and solutions for industrial business.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### -
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I actively follow the emergence of new technologies and am not afraid to apply them in development. When designing, I pay special attention to the structure and logic of interaction. I love clear, usable code, I prefer simplicity and minimalism.
 
 ```markdown
-Syntax highlighted code block
+TECH STACK
 
-# Header 1
-## Header 2
-### Header 3
+# 2D - 3D projects
+# Animations, UI, Particle system
+# Web requests, Soap wsdl, WebSockets,  JSON, XML, Firebase Database
+# ReactNative, VLC RTSP embed
+# Github,  Gitlab,CRM - Bitrix24,  Jira, Slack
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Skaiji/Skaiji.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I work remotely all over the world.
+I quickly and efficiently carry out my work of any format, study the market depending on the location, create the most creative and memorable projects.
 
 ### Support or Contact
 
