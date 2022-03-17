@@ -23,3 +23,4 @@ I work remotely all over the world.
 I quickly and efficiently carry out my work of any format, study the market depending on the location, create the most creative and memorable projects.
 
 ### PORTFOLIO
+![This is an image](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.07.51_1x_1x.png)
