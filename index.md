@@ -23,3 +23,10 @@ I quickly and efficiently carry out my work of any format, study the market depe
 ![CrashGamble](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.07.51_1x_1x.png)
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/IMG_0133_1x_1x.jpeg)
 ![Platformer prototype](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.21.38_1x_1x.png)
+
+```markdown
+CONTACTS
+
+# TELEGRAM: @skaijidev
+# Mail: skaijidev@gmail.com
+```
