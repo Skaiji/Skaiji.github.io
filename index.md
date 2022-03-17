@@ -20,8 +20,6 @@ I work remotely all over the world.
 I quickly and efficiently carry out my work of any format, study the market depending on the location, create the most creative and memorable projects.
 
 ### PORTFOLIO
-![Mermaid](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.14.11_1x_1x.png)
-![Astro Crash](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.12.27_1x_1x.png)
-![Boost of Ra](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.14.55_1x_1x.png)
+![CrashGamble](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.07.51_1x_1x.png)
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.07.51_1x_1x.png)
 ![Platformer prototype](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.21.38_1x_1x.png)
