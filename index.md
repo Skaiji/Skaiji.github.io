@@ -19,9 +19,23 @@ TECH STACK
 I work remotely all over the world.
 I quickly and efficiently carry out my work of any format, study the market depending on the location, create the most creative and memorable projects.
 
-### PORTFOLIO
+### PORTFOLIO:
+
+### Museum - The Road of Life
+Comming soon...
+
+### Trade Wars
+Comming soon...
+
+### Crash gamble game
+Classic crash gamble game for real casino machines
 ![CrashGamble](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.07.51_1x_1x.png)
+
+### Digital twin for led factory
+Digital twin system for real led factory, realtime
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/IMG_0133_1x_1x.jpeg)
+
+### Puzzle platformer prototype
 ![Platformer prototype](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.21.38_1x_1x.png)
 
 ```markdown
