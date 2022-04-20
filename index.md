@@ -1,4 +1,4 @@
-## SKAIJIDEV UNITY DEVELOPER
+## ILIA VOYTOV - UNITY DEVELOPER
 
 I am a Unity developer with more than 3 years of experience, on my account there are already more than 7 cool, launched projects. I develop both games and solutions for industrial business.
 
