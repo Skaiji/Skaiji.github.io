@@ -28,13 +28,11 @@ Comming soon...
 Comming soon...
 
 ### Crash gamble game
-Classic crash gamble game for real casino machines
+Classic crash gamble game for casino machines
 
 ![CrashGamble](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.07.51_1x_1x.png)
 
 ### Digital twin for led factory
-Digital twin system for real led factory, realtime
-
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/IMG_0133_1x_1x.jpeg)
 
 ### Puzzle platformer prototype
