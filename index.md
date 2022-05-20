@@ -22,11 +22,17 @@ I quickly and efficiently carry out my work of any format, study the market depe
 
 ### PORTFOLIO:
 
-### Museum - The Road of Life
+### Underwater: New Era
 Comming soon...
+
+### Museum - The Road of Life
+Two software for the Museum "Road of Life".
 
 ### Trade Wars
 Comming soon...
+
+### Ideology Rush
+Update and support
 
 ### Crash gamble game
 Classic crash gamble game for casino machines
