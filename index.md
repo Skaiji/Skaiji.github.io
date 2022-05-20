@@ -36,6 +36,7 @@ Comming soon...
 
 ### Ideology Rush
 Update and support
+
 ![Ideology Rush](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/ideology-rush-simuljator-politicheskoj-ideologii_1.png)
 ![Ideology Rush](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/ideology-rush-simuljator-politicheskoj-ideologii_2.png)
 
