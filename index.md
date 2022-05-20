@@ -26,7 +26,7 @@ I quickly and efficiently carry out my work of any format, study the market depe
 Comming soon...
 
 ### Museum - The Road of Life
-Two software for the Museum "Road of Life".
+Two software for the Museum "Road of Life". 
 (Release of TV channel news from the opening of the museum)
 https://vk.com/video179133060_456240562?access_key=0cb4d8bd82c82a4e0e
 
