@@ -34,8 +34,8 @@ Two software for the Museum "Road of Life".
 
 ### Trade Wars
 Realistic economic simulator
-![TradeWars](https://github.com/Skaiji/Skaiji.github.io/blob/main/tw.png)
-![TradeWars](https://github.com/Skaiji/Skaiji.github.io/blob/main/unnamed%20(1).jpg)
+![TradeWars](https://github.com/Skaiji/Skaiji.github.io/blob/](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/)main/tw.png)
+![TradeWars](https://github.com/Skaiji/Skaiji.github.io/blob/main/](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/)unnamed%20(1).jpg)
 
 ### Ideology Rush
 Update and support
