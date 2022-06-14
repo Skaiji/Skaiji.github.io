@@ -33,7 +33,7 @@ Two software for the Museum "Road of Life".
 
 
 ### Trade Wars
-![Ideology Rush](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/unnamed(3).jpg)
+![Ideology Rush](https://github.com/Skaiji/Skaiji.github.io/blob/main/unnamed%20(3).jpg)
 
 ### Ideology Rush
 Update and support
