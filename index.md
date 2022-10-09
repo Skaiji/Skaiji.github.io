@@ -25,7 +25,7 @@ I quickly and efficiently carry out my work of any format, study the market depe
 ### Retro Arcade Console 10 in 1 
 Retro Arcade Console is a nostalgic simulator of old 16-bit games.
 Turn your phone into a portable console from the late 1990s or early 2000s.
-![RetroArcadeConsole](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/retroarcade.png)
+![RetroArcadeConsole](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/retroarcade.PNG)
 
 ### Museum - The Road of Life
 Two software for the Museum "Road of Life". 
