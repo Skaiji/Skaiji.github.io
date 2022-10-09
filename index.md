@@ -27,13 +27,10 @@ Retro Arcade Console is a nostalgic simulator of old 16-bit games.
 Turn your phone into a portable console from the late 1990s or early 2000s.
 ![RetroArcadeConsole](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/retroarcade.png)
 
-
 ### Museum - The Road of Life
 Two software for the Museum "Road of Life". 
  Release of TV channel news from the opening of the museum:
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6OEIRiSINSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 
 ### Trade Wars
 Realistic economic simulator
