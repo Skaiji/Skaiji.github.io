@@ -1,7 +1,7 @@
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/siteLogoSmall.png)
 ## UNITY DEVELOPER
 
-I am a Unity developer with more than 3 years of experience, on my account there are already more than 7 cool, launched projects. I develop both games and solutions for industrial business.
+I am a Unity developer with more than 4 years of experience, on my account there are already more than 10 cool, launched projects. I develop both games and solutions for industrial business.
 
 I actively follow the emergence of new technologies and am not afraid to apply them in development. When designing, I pay special attention to the structure and logic of interaction. I love clear, usable code, I prefer simplicity and minimalism.
 
