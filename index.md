@@ -1,5 +1,5 @@
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/mwu_logo_rgb.png)
-## UNITY DEVELOPER
+## ILIA VOYTOV
 
 I am a Unity developer with more than 4 years of experience, on my account there are already more than 10 cool, launched projects. I develop both games and solutions for industrial business.
 
