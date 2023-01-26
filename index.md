@@ -43,7 +43,9 @@ Update and support
 ![Ideology Rush](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/ideology-rush-simuljator-politicheskoj-ideologii_1.png)
 ![Ideology Rush](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/ideology-rush-simuljator-politicheskoj-ideologii_2.png)
 
-### <a href="https://apps.apple.com/ru/app/retro-arcade-console-10-in-1/id1631812417"> Retro Arcade Console 10 in 1  </a> 
+### Retro Arcade Console 10 in 1 
+<a href="https://apps.apple.com/ru/app/retro-arcade-console-10-in-1/id1631812417"> IOS </a> 
+<br>
 Retro Arcade Console is a nostalgic simulator of old 16-bit games.
 Turn your phone into a portable console from the late 1990s or early 2000s.
 ![RetroArcadeConsole](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/retroarcade.PNG)
