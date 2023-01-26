@@ -12,6 +12,7 @@ TECH STACK
 
 # 2D - 3D projects
 # DOTween, Umotion, UI, Particle system
+# Spine
 # Shaders
 # Web requests, Soap wsdl, WebSockets, JSON, XML, Firebase Database
 # ReactNative, VLC RTSP embed
