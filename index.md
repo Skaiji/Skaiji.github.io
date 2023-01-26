@@ -31,7 +31,7 @@ Realistic economic simulator
 ![TradeWars](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/tw.png)
 ![TradeWars](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/unnamed%20(1).jpg)
 
-### Ideology Rush
+### <a href="https://apps.apple.com/us/app/ideology-rush/id1552072757"> Ideology Rush </a> 
 Update and support
 
 ![Ideology Rush](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/ideology-rush-simuljator-politicheskoj-ideologii_1.png)
