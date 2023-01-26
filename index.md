@@ -37,12 +37,12 @@ Update and support
 ![Ideology Rush](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/ideology-rush-simuljator-politicheskoj-ideologii_1.png)
 ![Ideology Rush](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/ideology-rush-simuljator-politicheskoj-ideologii_2.png)
 
-### Retro Arcade Console 10 in 1 
+### <a href="https://apps.apple.com/ru/app/retro-arcade-console-10-in-1/id1631812417"> Retro Arcade Console 10 in 1  </a> 
 Retro Arcade Console is a nostalgic simulator of old 16-bit games.
 Turn your phone into a portable console from the late 1990s or early 2000s.
 ![RetroArcadeConsole](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/retroarcade.PNG)
 
-### Museum - The Road of Life
+### <a href="https://www.youtube.com/embed/6OEIRiSINSI">Museum - The Road of Life</a> 
 Two software for the Museum "Road of Life". 
  Release of TV channel news from the opening of the museum:
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6OEIRiSINSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -52,7 +52,7 @@ Classic crash gamble game for casino machines
 
 ![CrashGamble](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.07.51_1x_1x.png)
 
-### Digital twin for led factory
+### <a href="https://www.youtube.com/watch?v=CjOb_ibVSCg">Digital twin for led factory</a> 
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/IMG_0133_1x_1x.jpeg)
 
 ### Puzzle platformer prototype
