@@ -5,7 +5,7 @@ I am a Unity developer with more than 4 years of experience, on my account there
 
 I actively follow the emergence of new technologies and am not afraid to apply them in development. When designing, I pay special attention to the structure and logic of interaction. I love clear, usable code, I prefer simplicity and minimalism.
 
-Summary: https://petrozavodsk.hh.ru/applicant/resumes/view?resume=eeb93e34ff03a3047c0039ed1f6c7752344939
+<a href="[www.something.com](https://petrozavodsk.hh.ru/applicant/resumes/view?resume=eeb93e34ff03a3047c0039ed1f6c7752344939)"> Summary </a>
 
 ```markdown
 TECH STACK
