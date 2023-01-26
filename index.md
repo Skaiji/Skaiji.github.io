@@ -27,8 +27,8 @@ I quickly and efficiently carry out my work of any format, study the market depe
 ### PORTFOLIO:
 
 ### Trade Wars
-<a href="https://apps.apple.com/ru/app/trade-wars-economy-simulator/id1620926691"> IOS </a> 
-<a href="https://play.google.com/store/apps/details?id=com.plusgames.tradewars&hl=ru&gl=US"> Android </a> 
+###<a href="https://apps.apple.com/ru/app/trade-wars-economy-simulator/id1620926691"> IOS </a> 
+###<a href="https://play.google.com/store/apps/details?id=com.plusgames.tradewars&hl=ru&gl=US"> Android </a> 
 Realistic economic simulator
 ![TradeWars](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/tw.png)
 ![TradeWars](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/unnamed%20(1).jpg)
