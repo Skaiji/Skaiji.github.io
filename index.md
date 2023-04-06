@@ -27,7 +27,7 @@ I quickly and efficiently carry out my work of any format, study the market depe
 ### PORTFOLIO:
 
 ### Life2App
-<a href="life2app.com"> life2app.com </a> 
+<a href="https://life2app.com"> life2app.com </a> 
 <br>
 Location based web3 game
 ![Life2app](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/life2app.PNG)
