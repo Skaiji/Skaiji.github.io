@@ -89,7 +89,7 @@ Classic crash gamble game for casino machines
 
 
 ### <a href="https://youtu.be/9spKGuxMNHU?si=h504bxApaNUPWpVf">Хакатон СИНЕУС</a> 
-Занял призовое место
+Вошел в 20 лучших
  <iframe width="560" height="315" src="https://www.youtube.com/embed/9spKGuxMNHU?si=YG2OlD-8yRpOdnOs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
