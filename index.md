@@ -60,7 +60,8 @@ Turn your phone into a portable console from the late 1990s or early 2000s.
 Реализация ПО для Инсталяций музея
  <iframe width="560" height="315" src="https://www.youtube.com/embed/6OEIRiSINSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
- ### Музей ФСБ
+
+### Музей ФСБ
 <br>
 Реализация ПО для Инсталяций музея
 (Windows ПО базы данных и админки)
@@ -87,7 +88,10 @@ Classic crash gamble game for casino machines
 ![Platformer prototype](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.21.38_1x_1x.png)
 
 
-### <a href="https://www.youtube.com/embed/6OEIRiSINSI">Хакатон СИНЕУС</a> 
+### <a href="https://youtu.be/9spKGuxMNHU?si=h504bxApaNUPWpVf">Хакатон СИНЕУС</a> 
+Занял призовое место
+ <iframe width="560" height="315" src="https://youtu.be/9spKGuxMNHU?si=h504bxApaNUPWpVf" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ```markdown
 CONTACTS
