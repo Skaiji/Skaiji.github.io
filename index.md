@@ -84,9 +84,6 @@ Classic crash gamble game for casino machines
 ### <a href="https://www.youtube.com/watch?v=CjOb_ibVSCg">Digital twin for led factory</a> 
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/IMG_0133_1x_1x.jpeg)
 
-### Puzzle platformer prototype
-![Platformer prototype](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/Snimok_ekrana_2021-11-27_v_22.21.38_1x_1x.png)
-
 
 ### <a href="https://youtu.be/9spKGuxMNHU?si=h504bxApaNUPWpVf">Хакатон СИНЕУС</a> 
 Вошел в 20 лучших
