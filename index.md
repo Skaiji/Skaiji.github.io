@@ -1,7 +1,7 @@
 ![Digital Twin](https://raw.githubusercontent.com/Skaiji/Skaiji.github.io/main/mwu_logo_rgb.png)
 ## ILIA VOYTOV
 
-I am a Unity developer with more than 5 years of experience. I develop both games and solutions for industrial business and museums.
+I am a Unity developer with more than 5 years of experience. I develop games, solutions for industrial business and solutins for museums.
 
 I actively follow the emergence of new technologies and am not afraid to apply them in development. When designing, I pay special attention to the structure and logic of interaction. I love clear, usable code, I prefer simplicity and minimalism.
 
