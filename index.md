@@ -89,6 +89,5 @@ Classic crash gamble game for casino machines
 ```markdown
 CONTACTS
 
-# TELEGRAM: @ivoytov
 # Mail: skaijidev@gmail.com
 ```
